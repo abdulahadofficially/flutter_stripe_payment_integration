@@ -1,2 +1,2 @@
-const String stipePublishedKey = 'pk_test_51QMN0YB4dLynPi8WURSIqezFYMgjFCwMEeXXvtWoxVwZW7dEPv7xpzSINDuakn6gaNMgsy71bKX5A10IGZyFE7UV00dU2vIe4T';
-const String stripeSecreteKey = 'sk_test_51QMN0YB4dLynPi8WNitofO4coxcHmarS3TwCj1UmT4SMnNKii7xikzRHqGIAFEdUfCTRUrHEIfBh3Gz6PGyE2WEQ00HtbkkOmW';
+const String stipePublishedKey = ''; // stripe account published key add here
+const String stripeSecreteKey = '';// stripe account secret key add here
